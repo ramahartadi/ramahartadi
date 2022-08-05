@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Rama Destrian Hartadi**.\
+
+Saya seorang **Mahasiswa Ilmu Komputer** di UGM.\
+
+Sekarang saya sedang mengikuti Studi Independen di Dicoding - Pengembang Multi-Platform dan Back-End
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rama-destrian-hartadi-49684b152/) ku ya.
